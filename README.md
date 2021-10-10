@@ -2,6 +2,8 @@
 
 Backend API using Nest Framework (NodeJS + TypeScript + PostgreSQL )
 
+![NodeJS Workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/nodejs.yml/badge.svg)
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
