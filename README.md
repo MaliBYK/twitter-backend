@@ -2,7 +2,7 @@
 
 Backend API using Nest Framework (NodeJS + TypeScript + PostgreSQL )
 
-![NodeJS Workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/nodejs.yml/badge.svg)
+![NodeJS Workflow](https://github.com/MaliBYK/twitter-backend/actions/workflows/nodejs.yml/badge.svg)
 
 ## Description
 
